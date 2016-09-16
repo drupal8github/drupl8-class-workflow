@@ -1,0 +1,21 @@
+uuid: a3ba930c-d5ad-4b75-b744-2820892d9e67
+langcode: en
+status: true
+dependencies:
+  module:
+    - file
+id: file.field_pass_phrase
+field_name: field_pass_phrase
+entity_type: file
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

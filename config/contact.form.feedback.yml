@@ -1,0 +1,12 @@
+uuid: d28cbd43-8270-418b-92f4-be5e67811be4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - cbernard@haivision.com
+reply: ''
+weight: 0
